@@ -1,0 +1,2 @@
+(window["webpackJsonpreact-technical-test"]=window["webpackJsonpreact-technical-test"]||[]).push([[1,0,2],{29:function(t,r,a){"use strict";a.r(r);var e=a(49);a.d(r,"default",(function(){return e.default}))},35:function(t,r,a){"use strict";a.r(r);var e=a(29),n=a(20);r.default={dark:e.default,light:n.default}},49:function(t,r,a){"use strict";a.r(r);var e={backgroundColor:"#282a36",foregroundColor:"#f8f8f2",linkColor:"#61dafb"};r.default=e}}]);
+//# sourceMappingURL=1.9a89a262.chunk.js.map

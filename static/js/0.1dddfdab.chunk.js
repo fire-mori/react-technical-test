@@ -1,0 +1,2 @@
+(window["webpackJsonpreact-technical-test"]=window["webpackJsonpreact-technical-test"]||[]).push([[0,2],{29:function(t,n,o){"use strict";o.r(n);var r=o(49);o.d(n,"default",(function(){return r.default}))},49:function(t,n,o){"use strict";o.r(n);var r={backgroundColor:"#282a36",foregroundColor:"#f8f8f2",linkColor:"#61dafb"};n.default=r}}]);
+//# sourceMappingURL=0.1dddfdab.chunk.js.map
