@@ -15,6 +15,6 @@ and fonts.
 1.  Several uses of 'any'.
 1.  Ugly alert error message.
 
-## Link to github pages
+## Link to project (running in heroku free tier, so quite laggy)
 
-https://fire-mori.github.io/react-technical-test/
+https://react-technical-test.herokuapp.com/
