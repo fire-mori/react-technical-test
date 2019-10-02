@@ -14,3 +14,7 @@ generator, like extra actions, components and other stuff.
 and fonts.
 1.  Several uses of 'any'.
 1.  Ugly alert error message.
+
+## Link to github pages
+
+https://fire-mori.github.io/react-technical-test/
