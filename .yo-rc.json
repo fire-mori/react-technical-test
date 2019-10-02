@@ -1,0 +1,8 @@
+{
+  "generator-tsx": {
+    "promptValues": {
+      "css": "linaria",
+      "graphqlClient": false
+    }
+  }
+}

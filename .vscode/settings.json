@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "_redirects": "ini",
+    ".eslintrc.json": "jsonc"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.linaria_cache": true
+  },
+  "search.exclude": {
+    "**/build": true,
+    "**/coverge": true,
+    "**/node_modules": true
+  }
+}
